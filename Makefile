@@ -26,4 +26,4 @@ test.o: test.s
 
 .PHONY:
 clean:
-	rm test
+	rm a.out
