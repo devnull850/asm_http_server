@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+Content-length: 244
+Content-type: text/html
+
+<!DOCTYPE html><html><head><title>Hello, World!</title><style>html,body{height:100%;width:100%;margin:0}div{display:flex;height:100%;justify-content:center;align-items:center}</style></head><body><div><h1>Hello, World!</h1></div></body></html>
+
